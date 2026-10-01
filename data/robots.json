@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Boston Dynamics Spot",
+    "category": "industry",
+    "country": "United States",
+    "year": 2015,
+    "emoji": "🐕",
+    "what_it_does": "A four-legged robot that walks up stairs and over rubble to inspect factories, power plants and building sites for safety problems.",
+    "cool_fact": "It can carry different tools on its back, from cameras to gas sensors, so one robot can take on many different jobs."
+  },
+  {
+    "name": "Boston Dynamics Atlas",
+    "category": "research",
+    "country": "United States",
+    "year": 2013,
+    "emoji": "🤖",
+    "what_it_does": "A humanoid robot built as a research platform to study balance, jumping and whole-body movement in machines.",
+    "cool_fact": "It can run, jump and do a backflip, then get back on its feet after being pushed over."
+  },
+  {
+    "name": "TALON",
+    "category": "defense",
+    "country": "United States",
+    "year": 2000,
+    "emoji": "🛡️",
+    "what_it_does": "A tracked robot that helps safety teams inspect and handle hazardous objects from a safe distance. It is also used in disaster search work.",
+    "cool_fact": "Early TALON robots were sent into the rubble of the World Trade Center in 2001 to look for survivors.",
+    "note": "TALON shows how robots can keep people out of danger. Because it works where a person would otherwise go, teams follow strict rules and a trained human always makes the decisions."
+  },
+  {
+    "name": "MQ-9 Reaper",
+    "category": "defense",
+    "country": "United States",
+    "year": 2001,
+    "emoji": "✈️",
+    "what_it_does": "A long-endurance uncrewed aircraft used by border patrol and surveillance teams to watch very large areas from high altitude.",
+    "cool_fact": "It can stay in the air for more than 24 hours at a time, far longer than most crewed aircraft.",
+    "note": "Uncrewed aircraft are used for border patrol, mapping and spotting wildfires. They also raise real questions about privacy, so many countries now require clear rules on when and how they may be flown."
+  },
+  {
+    "name": "Black Hornet 3",
+    "category": "defense",
+    "country": "Norway",
+    "year": 2011,
+    "emoji": "🚁",
+    "what_it_does": "A palm-sized drone that gives search and rescue teams a live bird's-eye view of places people cannot safely walk into.",
+    "cool_fact": "It weighs about 33 grams, roughly like six pencils, and it folds up small enough to fit in a pocket.",
+    "note": "Tiny drones can find people quickly after a disaster. Their size also makes privacy rules and good pilot training important, so they help rather than intrude."
+  },
+  {
+    "name": "Ghost Vision 60",
+    "category": "defense",
+    "country": "United States",
+    "year": 2019,
+    "emoji": "🦾",
+    "what_it_does": "A rugged four-legged robot that patrols and inspects large sites such as airports and solar farms, in rain, heat or dust.",
+    "cool_fact": "It can be dropped, roll over and stand back up, and its sealed legs let it wade through shallow water.",
+    "note": "Robots like this take on dull, dirty and dangerous inspection rounds. Keeping a human in charge of any response is a key design rule for teams that use it."
+  },
+  {
+    "name": "RoboBee",
+    "category": "research",
+    "country": "United States",
+    "year": 2013,
+    "emoji": "🐝",
+    "what_it_does": "A flying microrobot the size of a paperclip that researchers use to study insect-style flight, swarms and energy saving.",
+    "cool_fact": "It can perch on a surface like a real bee to save power, and the whole robot weighs less than one gram."
+  },
+  {
+    "name": "BigDog",
+    "category": "research",
+    "country": "United States",
+    "year": 2005,
+    "emoji": "🦿",
+    "what_it_does": "A four-legged walking robot designed to carry heavy loads across mud, snow and rocky ground where wheels struggle.",
+    "cool_fact": "It stayed upright on ice when engineers pushed and kicked it, thanks to sensors that feel every single footstep."
+  },
+  {
+    "name": "Bayraktar TB2",
+    "category": "defense",
+    "country": "Türkiye",
+    "year": 2014,
+    "emoji": "🛩️",
+    "what_it_does": "A medium-altitude uncrewed aircraft used for wide-area surveillance, mapping and border patrol missions.",
+    "cool_fact": "It holds endurance records in its class and is flown from a ground control station that can be hundreds of kilometres away.",
+    "note": "Remote-piloted aircraft help with border patrol, disaster mapping and fire spotting. Debates about privacy and airspace rules continue, and human operators stay responsible for every mission."
+  },
+  {
+    "name": "Curiosity Rover",
+    "category": "space",
+    "country": "United States",
+    "year": 2012,
+    "emoji": "🪐",
+    "what_it_does": "A car-sized rover exploring Mars, drilling rocks and studying whether the planet ever had the right conditions for life.",
+    "cool_fact": "It carries a laser that can zap a rock several metres away and a nuclear power source that has kept it working for over a decade."
+  },
+  {
+    "name": "Da Vinci Surgical System",
+    "category": "medical",
+    "country": "United States",
+    "year": 2000,
+    "emoji": "🩺",
+    "what_it_does": "A surgical robot that lets a doctor operate through tiny cuts using arms that move more precisely than a human hand.",
+    "cool_fact": "It filters out hand shake and magnifies the view up to ten times, while the surgeon stays in full control the whole time."
+  },
+  {
+    "name": "Thermite RS3 Firefighting Robot",
+    "category": "rescue",
+    "country": "United States",
+    "year": 2014,
+    "emoji": "🚒",
+    "what_it_does": "A tracked firefighting robot that sprays water or foam into fires that are too hot or too smoky for people to approach safely.",
+    "cool_fact": "It can pump thousands of litres of water every minute and drag heavy hoses while the crew stays at a safe distance."
+  },
+  {
+    "name": "Amazon Robotics Drive Unit",
+    "category": "industry",
+    "country": "United States",
+    "year": 2012,
+    "emoji": "📦",
+    "what_it_does": "A low warehouse robot that slides under shelf pods and carries them to human workers, cutting out most of the walking in an order.",
+    "cool_fact": "In a busy warehouse, hundreds of these robots share one floor and plan their own routes without bumping into each other."
+  },
+  {
+    "name": "Pepper Service Humanoid",
+    "category": "industry",
+    "country": "France",
+    "year": 2014,
+    "emoji": "🤝",
+    "what_it_does": "A friendly humanoid robot used as a greeter and waiter in shops, hotels and hospitals, talking with visitors and taking orders.",
+    "cool_fact": "It reads tone of voice and facial cues to guess how someone feels, and it waves hello with jointed arms."
+  },
+  {
+    "name": "Sentry AUV",
+    "category": "research",
+    "country": "United States",
+    "year": 2010,
+    "emoji": "🌊",
+    "what_it_does": "An underwater robot that dives thousands of metres to map the sea floor, find hot springs and study deep-sea life on its own.",
+    "cool_fact": "It swims untethered, with no cable to the surface, and can dive close to 6,000 metres deep."
+  }
+]

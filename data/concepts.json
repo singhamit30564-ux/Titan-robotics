@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SCUNTER",
+    "class": "Recon & Search Scout",
+    "emoji": "🦎",
+    "tagline": "Fast, quiet, and very hard to spot.",
+    "ability": "Adaptive camouflage: its outer panels warm, cool and recolour to match walls, dust or forest, so it can map a disaster site without drawing attention to itself.",
+    "weakness": "Light armour: to stay fast it carries only a thin composite shell, so a hard fall, a flood or a heavy impact can end the mission early.",
+    "design_notes": "SCUNTER is built for the first ten minutes of a search, when the map is empty and every second counts. Two hub motors push it to a top speed of 45 km/h, and a folding sensor mast keeps its cameras low and stable at that speed. Instead of heavy plating, it uses a self-healing skin of phase-change panels that shift colour and temperature to blend into its surroundings. It carries no tool heavier than a camera, because its job is to look, listen and report - never to touch.",
+    "specs": {
+      "speed_kmh": 45,
+      "runtime_h": 3.5,
+      "payload_kg": 4,
+      "autonomy_1_5": 4
+    }
+  },
+  {
+    "name": "XEROKLASE",
+    "class": "Heavy-Duty Construction Rig",
+    "emoji": "🏗️",
+    "tagline": "Lifts a house-sized panel without breaking a sweat.",
+    "ability": "Millimetre-accurate heavy lifting: it places precast concrete panels, beams and bridge sections in dust, heat and wind, guided by a survey-grade positioning system.",
+    "weakness": "It needs a wide, flat, prepared base. On steep or soft ground its stabilisers sink, so a human crew must build the pad before XEROKLASE can start work.",
+    "design_notes": "XEROKLASE is a six-legged rig with a rotating turret and a 1,200 kg lifting arm, designed for sites where a crane would be too slow to set up. Three of its six legs always touch the ground, so it can walk sideways along a wall while its arm holds a panel steady. A diesel-electric drivetrain gives it ten hours of shift-length work, and laser trackers compare every placement against the digital plan within a millimetre. Its limit is energy and ground: lifting is cheap, but moving heavy steel uphill is not.",
+    "specs": {
+      "speed_kmh": 8,
+      "runtime_h": 10,
+      "payload_kg": 1200,
+      "autonomy_1_5": 2
+    }
+  },
+  {
+    "name": "CIRCUMKANCE",
+    "class": "Holographic Assistant",
+    "emoji": "🔮",
+    "tagline": "Shows you the answer instead of telling you.",
+    "ability": "Volumetric holography: it projects glowing 3D models in mid-air, so a technician can see an engine part, a wiring route or a repair step exactly where it belongs.",
+    "weakness": "Bright daylight washes its holograms out, and the projector draws a lot of power, so it works best indoors or after dusk, near a charging pad.",
+    "design_notes": "CIRCUMKANCE hovers on a low-noise ducted fan so its projector can stay level while people move around it. The projector draws a 3D model in layers, then tracks the viewer's eyes so the hologram stays sharp from any angle. It listens, answers questions and points at parts with a thin laser, but it never touches the work itself - the human hands do that. Its two hard limits are light and power: sunlight erases the image, and the fan plus projector empty the battery in about six hours.",
+    "specs": {
+      "speed_kmh": 5,
+      "runtime_h": 6,
+      "payload_kg": 0.5,
+      "autonomy_1_5": 3
+    }
+  }
+]

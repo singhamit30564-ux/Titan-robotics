@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2025,
+    "emoji": "🏭",
+    "tag": "Work",
+    "title": "Robots clock in",
+    "text": "Warehouse fleets, delivery robots and inspection quadrupeds become ordinary in factories, farms and city services. Most are still specialists: very good at one job, and honest about the rest."
+  },
+  {
+    "year": 2028,
+    "emoji": "🗣️",
+    "tag": "AI",
+    "title": "Robots that understand us",
+    "text": "AI language models let robots follow spoken instructions like 'tidy the top shelf'. When a task is unclear they stop and ask, because handing control back to a person is the safety feature - not a failure."
+  },
+  {
+    "year": 2030,
+    "emoji": "🐝",
+    "tag": "Swarm",
+    "title": "Swarm intelligence",
+    "text": "Hundreds of small, cheap robots share a single map. Drone swarms scan forests after a storm, ground swarms search rubble, and farm swarms weed field by field instead of spraying everything."
+  },
+  {
+    "year": 2033,
+    "emoji": "📚",
+    "tag": "AI",
+    "title": "Skills travel like apps",
+    "text": "A robot that learns to fold a shirt shares that skill with a million others overnight. Robot abilities spread the way phone apps do today - and get checked for safety before they ship."
+  },
+  {
+    "year": 2036,
+    "emoji": "🏠",
+    "tag": "Home",
+    "title": "Home humanoids arrive",
+    "text": "The first affordable humanoid helpers reach early-adopter homes for laundry, tidying and elder care support, sold with safety certification, clear privacy controls and a human always in charge."
+  },
+  {
+    "year": 2040,
+    "emoji": "🌆",
+    "tag": "Infrastructure",
+    "title": "Robot-friendly cities",
+    "text": "Buildings get robot-sized doors, lifts and charging bays. Maintenance robots work overnight in shared fleets, the way bike-sharing works today, fixing pipes and pavements before they break."
+  },
+  {
+    "year": 2045,
+    "emoji": "🌊",
+    "tag": "Extreme places",
+    "title": "Resilient field teams",
+    "text": "Mixed teams of ground, air and underwater robots map the deep ocean, respond to disasters and help build in orbit. They repair each other and keep working even when the radio link drops."
+  },
+  {
+    "year": 2050,
+    "emoji": "♿",
+    "tag": "Everyday life",
+    "title": "Everyday coexistence",
+    "text": "Personal robot assistants become as common as smartphones, helping with care, mobility and accessibility. Strict privacy rules, transparent design and human oversight decide what they may do alone."
+  }
+]
