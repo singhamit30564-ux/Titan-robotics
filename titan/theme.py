@@ -32,14 +32,21 @@ CSS = """
 }
 
 /* ---------- page shell ---------- */
-.stApp{
+/* Paint the glow on the app root *and* the view container, so whichever one
+   Streamlit's own theme colours, the gradient still shows through. */
+.stApp, [data-testid="stAppViewContainer"]{
   background:
     radial-gradient(1100px 520px at 10% -10%, rgba(212,175,55,.14), transparent 62%),
     radial-gradient(900px 460px at 95% 2%, rgba(56,110,190,.16), transparent 60%),
     #0a0e17;
+  background-attachment:fixed;
 }
+[data-testid="stAppViewContainer"] > .main,
+[data-testid="stMain"],
+[data-testid="stMainBlockContainer"],
+[data-testid="stAppViewBlockContainer"]{background:transparent;}
 [data-testid="stHeader"]{background:transparent;}
-.block-container{padding:1rem 1rem 3.5rem;max-width:1180px;}
+.block-container, [data-testid="stMainBlockContainer"]{padding:1rem 1rem 3.5rem;max-width:1180px;}
 html, body, .stApp, [data-testid="stMarkdownContainer"], input, textarea, button{
   font-family:"Inter","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;
 }
